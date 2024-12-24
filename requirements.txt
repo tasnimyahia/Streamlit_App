@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+seaborn
+openpyxl
+langchain-community
+langchain
+faiss-cpu
+unstructured
+unstructured[pdf]
+transformers
+sentence-transformers
